@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersarse",
+        "uuid": 4174220,
+        "checksum": "jlxf3b"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
